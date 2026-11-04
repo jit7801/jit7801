@@ -364,7 +364,7 @@ Whether it's a development project, collaboration, technology discussion or simp
 
 <div align="center">
 
-<a href="https://jiteshvishnoiportfolio.vercel.app/">
+<a href="https://jiteshvishnoi.me/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
