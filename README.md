@@ -53,7 +53,7 @@ My development journey revolves around combining creativity with technology to c
 
 | Institution | Program | Duration |
 |---|---|---|
-| IIT Jodhpur | B.Tech | 2025 – 2029 |
+| JIET Jodhpur | B.Tech | 2025 – 2029 |
 | IIT Jodhpur | B.Sc. | 2025 – 2027 |
 
 </div>
